@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".SuccessActivity_11671"
+            android:exported="true" />
+        <activity
+            android:name=".ForgotPassword_11671"
+            android:exported="true" />
+        <activity
+            android:name=".ResetPassword_11671"
+            android:exported="true" />
+        <activity
+            android:name=".WelcomeSlideAssign_11671"
+            android:exported="true" />
+        <activity
             android:name=".WelcomeSlideSuperhero_11671"
             android:exported="true" />
         <activity
