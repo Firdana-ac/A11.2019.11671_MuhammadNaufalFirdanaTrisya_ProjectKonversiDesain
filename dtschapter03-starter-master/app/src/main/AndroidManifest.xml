@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".WelcomeSlideSuperhero_11671"
+            android:exported="true" />
+        <activity
+            android:name=".WelcomeBack_11671"
+            android:exported="true" />
+        <activity
             android:name=".WelcomeSlideCalender_11671"
             android:exported="true" />
         <activity android:name=".MainActivity">
